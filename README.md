@@ -5,13 +5,19 @@ The Drug Inventory and Supply Chain Tracking System is a web-based solution desi
 # Features
 
 Dashboard-based monitoring of procurement, distribution, and hospital drug consumption.
+
 Vendor activity tracking, including supply order preparation and shipment management.
+
 Real-time analytics to monitor drug availability and usage patterns.
+
 Quality control mechanisms to ensure proper handling and storage of drugs.
+
 Role-based access control for different users (admins, vendors, hospital staff).
 
 # Technologies Used
 
 Frontend: React.js 
+
 Backend: Node.js 
+
 Authentication: OAuth
